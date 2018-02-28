@@ -12,14 +12,18 @@ CRUD basic BOARD
 
 검색기능 가능
 
-사용 Library version
+#사용 Library version
 
-java 1.8
 
-mysql 5.1.35
-
-mabatis 1.2.2
-
-spring 4.1.7
-
-ajax 2.8.6
+<blockquote>
+<ul>
+<li><strong>IDE</strong> :  Eclipse Java EE 4.7.2 (Oxygen.2 Release)</li>
+<li><strong>JDK</strong>: Java 1.8</li>
+<li><strong>Tomcat</strong> : Tomcat 7.0.85</li>
+<li><strong>Mybatis</strong> : Mybatis 1.2.3 (Embedded in Eclipse)</li>
+<li><strong>Spring Tools</strong> : STS 3.9.2. RELEASE</li>
+<li><strong>Springframework</strong> : 4.1.7. RELEASE</li>
+<li><strong>DBMS</strong> : Mysql 5.1.35</li>
+<li><strong>jQuery</strong> : ajax 2.8.6</li>
+</ul>
+</blockquote>
