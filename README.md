@@ -12,7 +12,11 @@ CRUD basic BOARD
 사용 api version
 
 java 1.8
+
 mysql 5.1.35
+
 mabatis 1.2.2
+
 spring 4.1.7
+
 ajax 2.8.6
