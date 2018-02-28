@@ -11,7 +11,7 @@ CRUD basic BOARD
 
 검색기능 가능
 
-사용 api version
+사용 Library version
 
 java 1.8
 
