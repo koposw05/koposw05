@@ -28,4 +28,4 @@ CRUD basic BOARD
 </ul>
 </blockquote>
 
-https://github.com/koposw05/koposw05/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%EA%B2%8C%EC%8B%9C%ED%8C%90.png
+<img src = https://github.com/koposw05/koposw05/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%EA%B2%8C%EC%8B%9C%ED%8C%90.png>
